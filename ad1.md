@@ -4,7 +4,7 @@ La **visualización de datos** en el mundo periodístico cada vez va cobrando un
 
 El último trabajo realizado por **[Javier Cantón](https://www.linkedin.com/in/javicanton/?originalSubdomain=es)**, docente e investigador en UNIR, UOC y UAH, es un claro ejemplo de ello. Se trata de una infografía estática que muestra las características de *Violator*, un disco conocido de la banda británica de música electrónica **Depeche Mode**.
 
-Hola
+hola
 
 ## Características de la infografía
 A través una **rosa de color rojo** va integrando las diferentes canciones que componen el álbum musical en las hojas y las ondas del audio de cada canción en el tallo. Además de representar estos aspectos, ha incorporado para cada canción parámetros como la  duración, tempo y tono; y otros extraídos de Spotify como la bailabilidad, valencia, energía, expresión, instrumentalidad y acústica.

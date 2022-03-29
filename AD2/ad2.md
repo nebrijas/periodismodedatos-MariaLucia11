@@ -1,6 +1,16 @@
 # Actividad dirigida 2
 ## ¿En qué consiste?
-Utilizaremos un código en bruto de un ejercicio sobre Web Scraping, que ya trabajamos en la anterior asignatura de Programación, para convertilo en un cuaderno en Jupyer. En este documento, emplearemos el lenguaje markdown para ir explicando en qué consite el juego y qué significan las diferentes líneas de código.
+Utilizamos el código en bruto de un ejercicio sobre Web Scraping, que ya trabajamos en la anterior asignatura de Programación, para convertilo en un cuaderno en Jupyer. En este documento, empleamos el lenguaje markdown para ir explicando en qué consitía el juego y qué significaban las diferentes líneas de código.
+## ¿Cómo lo hemos realizado?
+Lo que hicimos fue analizar ese código en bruto y organizarlo. De esta forma, cualquier usuario podría enteneder facilmente cuáles son los pasos que se han seguido y el por qué. Posteriormente, pasamos a explicar detenenidamente cada uno de los apartados:
+
+### LIBRERÍAS
+
+### VARIABLES
+
+### DATOS
+
+### PREGUNTA
 
 ```
 from bs4 import BeautifulSoup

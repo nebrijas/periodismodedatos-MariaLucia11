@@ -1,5 +1,6 @@
 # Actividad dirigida 2
 
+
 ```
 from bs4 import BeautifulSoup
 import requests

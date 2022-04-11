@@ -8,6 +8,6 @@ A través de este ejercicio investigaremos a fondo cómo se extraen los diferent
 Lo que hicimos fue ir esquematizando cada uno de los diferentes pasos en lenguaje markdown para que cualquier usuario pueda entenderlos y posteriormente se proporcionaba el código.
 
 ## ¿Por qué se han elegido los países que aparecen en la triple comparativa?
-Para llevar a cabo esta comparativa decidí elegir España ya que es el páis en el que vivimos y dos naciones que pertenecieran a un continente totalmente diferente como son Colombia y México. Gracias a esta elección cualquier persona puede observar que en España se registraron mucho más casos y que México fue el país que menos sufrió las consecuencias de la pandemia, según los datos registrados.
+Para llevar a cabo esta comparativa decidí elegir España, ya que es el páis en el que vivimos, y dos naciones que pertenecieran a un continente totalmente diferente como son Colombia y México. Gracias a esta elección cualquier persona puede observar que en España se registraron muchos más casos y que México fue el país que menos sufrió las consecuencias de la pandemia, según los datos registrados.
 
 [Enlace al notebook](https://github.com/nebrijas/periodismodedatos-marialucia11/blob/main/AD3/api-covid19-pandas.ipynb)
